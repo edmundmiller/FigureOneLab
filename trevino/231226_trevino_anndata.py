@@ -1,3 +1,18 @@
+# /// script
+# requires-python = ">=3.9"
+# dependencies = [
+#     "anndata==0.10.9",
+#     "numpy==2.0.2",
+#     "pandas==2.2.3",
+#     "pybiomart==0.2.0",
+#     "scipy==1.13.1",
+#     "scanpy[leiden]==1.10.3",
+#     "seaborn==0.13.2",
+#     "scvi-tools",
+#     "torch==2.5.1",
+# ]
+# ///
+
 import marimo
 
 __generated_with = "0.9.20"
